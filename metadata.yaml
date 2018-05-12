@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Antero_de_Quental
     - http://pt.wikipedia.org/wiki/Antero_de_Quental
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26326#Sonetos-de-Anthero
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2008-08-16'
 gutenberg_type: Text
